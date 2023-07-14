@@ -48,6 +48,7 @@ const consultarPokemon = async (e) => {
     }
 }
 
+
 const consultaAPI = async (e) => {
     const url = `./consulta.php`
     const config = {
